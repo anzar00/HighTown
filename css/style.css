@@ -113,7 +113,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background-color: #3fc1c9;
+  background-color: #ed1c24;
 }
 
 .header_section {
@@ -276,7 +276,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #3fc1c9;
+  color: #ed1c24;
 }
 
 .slider_section .detail-box h1 {
@@ -488,7 +488,7 @@ a:focus {
 }
 
 .shop_section {
-  background-color: #3fc1c9;
+  background-color: #ed1c24;
 }
 
 .shop_section .heading_container {
@@ -596,7 +596,7 @@ a:focus {
 }
 
 .client_section .box .detail-box i {
-  color: #3fc1c9;
+  color: #ed1c24;
   margin-bottom: 10px;
 }
 
@@ -650,7 +650,7 @@ a:focus {
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
 .client_section .owl-carousel .owl-nav .owl-next:hover {
-  color: #3fc1c9;
+  color: #ed1c24;
 }
 
 /* client section end */
@@ -712,7 +712,7 @@ a:focus {
 .contact_section button {
   display: inline-block;
   padding: 12px 45px;
-  background-color: #3fc1c9;
+  background-color: #ed1c24;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -799,7 +799,7 @@ a:focus {
 }
 
 .info_section .info_social a:hover {
-  color: #3fc1c9;
+  color: #ed1c24;
 }
 
 .info_section .info_links {
@@ -826,7 +826,7 @@ a:focus {
 }
 
 .info_section .info_links a:hover {
-  color: #3fc1c9;
+  color: #ed1c24;
 }
 
 .info_section form input {
@@ -860,7 +860,7 @@ a:focus {
   text-align: center;
   display: inline-block;
   padding: 10px 55px;
-  background-color: #3fc1c9;
+  background-color: #ed1c24;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
