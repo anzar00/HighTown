@@ -31,7 +31,7 @@
                      <div class="full">
                         <div class="center-desk">
                            <div class="logo">
-                              <a href="index.html"><img src="images/logo.png" alt="#" /></a>
+                              <a href="index.html"><img src="images/logo-barzam.png" alt="#" /></a>
                            </div>
                         </div>
                      </div>
@@ -50,7 +50,6 @@
                                  <a class="nav-link" href="#contact">Contact us</a>
                               </li>
                            </ul>
-                           <div class="sign_btn"><a href="#">Sign in</a></div>
                         </div>
                      </nav>
                   </div>
@@ -67,8 +66,8 @@
                <div class="col-md-12">
                   <div class="text-bg">
                      <div class="padding_lert">
-                        <h1>WELCOME TO HOTEL Felicity </h1>
-                        <span>LANDING PAGE 2019</span>
+                        <h1>WELCOME TO</h1>
+                        <span>Barzam Resorts</span>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
                         <a href="#">Read More</a>
                      </div>
@@ -86,8 +85,8 @@
                   <form class="form_book">
                      <div class="row">
                         <div class="col-md-3">
-                           <label class="date">ARRIVAL DATE</label>
-                           <input class="book_n"  type="date" >
+                           <label class="date">Rooms Available</label>
+                           <label class="book_n">75</label>
                         </div>
                         <div class="col-md-3">
                            <label class="date">DEPARTURE DATE</label>
@@ -155,7 +154,7 @@
                <div class="col-md-6">
                   <div class="our_box">
                      <div class="titlepage">
-                        <h2><span class="text_norlam">Our Best </span> <br>Breakfast</h2>
+                        <h2><span class="text_norlam">Our</span> <br>Services</h2>
                      </div>
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit </p>
                      <a class="read_more" href="#">Read More</a>
@@ -172,7 +171,7 @@
                <div class="col-md-6">
                   <div class="about_text">
                      <div class="titlepage">
-                        <h2>About Our Hotel</h2>
+                        <h2>About Our Resort</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit </p>
                      </div>
                   </div>

@@ -39,7 +39,7 @@
                <div class="container">
                   <div class="row">
                      <div class="col-md-12">
-                        <p>Copyright 2019 All Right Reserved By <a href="https://html.design/"> Free Html Templates</a></p>
+                        <p>&copy; <span id="displayYear"></span>Barzam Resorts By - <a href="../index.php">Hightown Communities</a></p>
                      </div>
                   </div>
                </div>

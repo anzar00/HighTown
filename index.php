@@ -290,13 +290,13 @@
       <div class="row">
         <div class="col-sm-6 col-md-4 col-lg-3">
           <div class="box">
-            <a href="">
+            <a href="barzam/index.php">
               <div class="img-box">
                 <img src="images/p1.png" alt="">
               </div>
               <div class="detail-box">
                 <a href="">
-                  Caption
+                  Barzam
                 </a>
               </div>
             </a>
