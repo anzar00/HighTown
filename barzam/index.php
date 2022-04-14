@@ -84,19 +84,15 @@
                <div class="col-md-12">
                   <form class="form_book">
                      <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                            <label class="date">Rooms Available</label>
                            <label class="book_n">75</label>
                         </div>
-                        <div class="col-md-3">
-                           <label class="date">DEPARTURE DATE</label>
-                           <input class="book_n"  type="date" >
+                        <div class="col-md-4">
+                           <label class="date">Rate/night</label>
+                           <label class="book_n">3,500</label>
                         </div>
-                        <div class="col-md-3">
-                           <label class="date">PERSON</label>
-                           <input class="book_n" placeholder="2" type="type" name="2">
-                        </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                            <button class="book_btn">Book Now</button>
                         </div>
                      </div>
