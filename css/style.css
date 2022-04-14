@@ -724,7 +724,7 @@ a:focus {
 }
 
 .contact_section button:hover {
-  background-color: #298c92;
+  background-color: #203247;
 }
 
 .contact_section .map_container {
@@ -771,7 +771,7 @@ a:focus {
 }
 
 .info_section .info_contact .contact_link_box a:hover {
-  color: #203247;
+  color: #ed1c24;
 }
 
 .info_section .info_social {
@@ -870,7 +870,7 @@ a:focus {
 }
 
 .info_section form button:hover {
-  background-color: #298c92;
+  background-color: #203247;
 }
 
 /* footer section*/
