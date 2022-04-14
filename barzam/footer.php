@@ -8,8 +8,13 @@
                         <h2>Contact Us</h2>
                      </div>
                      <div class="cont">
-                        <h3>Free download Landing page Felicity Hotel </h3>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,</p>
+                        <h3>Fill the form or mail us at <br><a style="color: white;" href="mailto:email@domain.com">email@domain.com</a> </h3>
+                        <h2 style="color: white;">Or make a call at 
+                           <ul style="color: white;">
+                              <li><a href="tel:1234567890" style="color: white;">- 1234567890</a></li>
+                              <li><a href="tel:1234567890" style="color: white;">- 1234567890</a></li>
+                           </ul>
+                        </h2>
                      </div>
                   </div>
                   <div class="col-md-6">
