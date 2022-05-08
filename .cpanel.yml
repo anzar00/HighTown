@@ -2,15 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/myt8324ji2zh/public_html/
-    - /bin/cp -R barzam $DEPLOYPATH
-    - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R fonts $DEPLOYPATH
-    - /bin/cp -R images $DEPLOYPATH
-    - /bin/cp -R js $DEPLOYPATH
-    - /bin/cp about.php $DEPLOYPATH
-    - /bin/cp contact.php $DEPLOYPATH
-    - /bin/cp footer.php $DEPLOYPATH
-    - /bin/cp header.php $DEPLOYPATH
-    - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp navbar.php $DEPLOYPATH
-    - /bin/cp properties.php $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
