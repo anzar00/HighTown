@@ -262,12 +262,14 @@
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+            High Town Communities is an expert in the development, ownership, and management of high-end student 
+            housing communities. Our goal is to provide the finest possible experience for students at every price 
+            point, whether we're developing a new development, improving an acquired property, or partnering with 
+            educational institutions to create or manage on-campus housing. It's not only about having nice living 
+            quarters and amenities; it's about providing students with the tools and environment they need to achieve 
+            academically and personally.
             </p>
-            <a href="">
+            <a href="./about.php">
               Read More
             </a>
           </div>

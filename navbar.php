@@ -15,6 +15,9 @@
               <li class="nav-item ">
                 <a class="nav-link" href="index.php">Home </a>
               </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="https://barzam.hightowncommunities.com" target="_blank">Barzam Resorts </a>
+              </li>
               <li class="nav-item">
                 <a class="nav-link" href="about.php"> About</a>
               </li>
