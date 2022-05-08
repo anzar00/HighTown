@@ -14,3 +14,5 @@ deployment:
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp navbar.php $DEPLOYPATH
     - /bin/cp properties.php $DEPLOYPATH
+
+    
